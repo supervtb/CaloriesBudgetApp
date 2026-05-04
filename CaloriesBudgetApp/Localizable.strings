@@ -1,0 +1,47 @@
+"commonNext" = "Next";
+"commonContinue" = "Continue";
+"commonSkip" = "Skip";
+"commonOpenSettings" = "Open Settings";
+
+"unitKg" = "kg";
+"unitLb" = "lb";
+
+"welcomeAction" = "I am new to MyNetDiary";
+"welcomeTitle" = "Welcome";
+"welcomeSubtitle" = "A quick setup helps MyNetDiary personalize your calorie budget from the first day.";
+
+"genderMale" = "Male";
+"genderFemale" = "Female";
+"genderTitle" = "Select gender";
+"genderSubtitle" = "Used with your age, weight, and height to estimate your daily calorie budget.";
+
+"healthImportButton" = "Import data from HealthKit";
+"healthImportTitle" = "Health App Import";
+"healthImportSubtitle" = "Import weight, date of birth, and height from Health.";
+"healthPermissionUnavailableTitle" = "Health data unavailable";
+"healthPermissionUnavailableMessage" = "Health access is not available on this device.";
+"healthPermissionGrantedTitle" = "Health access granted";
+"healthPermissionGrantedMessage" = "We'll import available profile data from Health.";
+"healthPermissionNoDataTitle" = "No Health data found";
+"healthPermissionNoDataMessage" = "No profile data found. You can continue setup and enter data manually.";
+"healthPermissionDeniedTitle" = "Health access denied";
+"healthPermissionDeniedMessage" = "You can continue setup and enter data manually.";
+
+"weightTitle" = "Current Weight";
+"weightSubtitle" = "Metric defaults OFF for en-us, ON otherwise.";
+"weightHintTitle" = "You can edit this later";
+"weightHintSubtitle" = "Use your current morning weight for better calorie estimation.";
+"weightErrorEmpty" = "Weight can not be empty.";
+"weightErrorInvalid" = "Enter a valid weight.";
+"weightErrorRange" = "Weight must be between 10.0 and 500.0.";
+
+"dobTitle" = "Date of Birth";
+"dobSubtitle" = "Users under 13 are not allowed.";
+"dobErrorUnder13" = "Users under 13 are not allowed.";
+
+"metricTitle" = "Use metric system";
+
+"mainTitle" = "Daily Calorie Budget";
+"mainSummaryFormat" = "%d kcal";
+"mainSummaryMetricFormat" = "%d kJ";
+"mainRestart" = "Start over";
