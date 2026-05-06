@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+xcuserdata/
+
+# Xcode breakpoints and debugger state
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcodeproj/xcuserdata/**/xcdebugger/Breakpoints_v2.xcbkptlist
+
+# Build products
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# CocoaPods / Carthage (if used later)
+Pods/
+Carthage/Build/
+
+# App archives / logs
+*.xcarchive
+*.xcresult
+
+# IDE / temp
+*.swp
+*.tmp
